@@ -1,0 +1,16 @@
+#elements{
+  background-color: rgb(97, 156, 158);  
+}
+.shoes{
+  width: 100%;
+  height: auto;
+}
+.HeadingFormat{
+  text-align: center;
+}
+.scaling{
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
